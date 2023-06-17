@@ -3,7 +3,7 @@ public class Producer {
         Producer producer=new Producer();
 //        producer.setNameSreAddr("192.168.200.143");
 //        producer.
-
+        Producer producer1=new Producer();
 
     }
 
